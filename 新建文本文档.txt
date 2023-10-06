@@ -2,3 +2,8 @@
 
 
 ./cpolar  tcp -region=hk 3389
+
+
+ubuntujiaguwen@gmail.com
+
+alist.exe server
