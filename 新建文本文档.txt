@@ -1,0 +1,4 @@
+./cpolar authtoken Y2JmZDE2NmUtNDNlNC00Y2FjLWI5OGUtNTdjYTEwNjAzYjFl
+
+
+./cpolar  tcp -region=hk 3389
